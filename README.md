@@ -1,0 +1,1 @@
+# NSS-CHALLENGES-single-page-applications-diff-of-squares-and-sum
